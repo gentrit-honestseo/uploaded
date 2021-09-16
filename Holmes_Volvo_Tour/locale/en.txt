@@ -1,0 +1,39 @@
+#: locale=en
+
+## Tour
+
+### Title
+tour.name = Holmes_Volvo_360_V1
+
+## Skin
+
+### Multiline Text
+HTMLText_E06A332D_8475_22DE_41CF_209DA5E54867.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:24px;"><B><I>318-212-1289</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;"><B>1221 E Bert Kouns</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;"><B>Industrial Loop, Suite B</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:16px;">Shreveport, LA 71105</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:24px;"><BR STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:Tahoma, Geneva, sans-serif;"><B>HOURS:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:Tahoma, Geneva, sans-serif;">8am - 7pm (Monday - Friday)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;"><SPAN STYLE="letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:Tahoma, Geneva, sans-serif;">Closed (Sunday)</SPAN></SPAN></DIV></div>
+
+### Label
+Label_0AB7903F_843D_FF3A_41D9_F61FDF04E4BC.text = www.HondaVolvoCars.com
+
+## Media
+
+### Title
+panorama_898803E8_842B_2146_41C8_402D2910D0FC.label = Holmes Volvo_360 Tour_12
+panorama_89881C4C_842B_275E_41D2_69FF4EA471F3.label = Holmes Volvo_360 Tour_14
+panorama_898840D6_8455_3F4A_41C7_C06DD96E47D4.label = Holmes Volvo_360 Tour_3
+panorama_8988481B_842B_6EFA_41B0_BAA90B2E4ADD.label = Holmes Volvo_360 Tour_11
+panorama_89884FDE_842B_217A_41A8_4CBD099D7FCB.label = Holmes Volvo_360 Tour_13
+panorama_89887BCC_842B_615E_41DC_069F8AE91F74.label = Holmes Volvo_360 Tour_10
+panorama_8988D842_842B_EF4A_41D3_7783AC769491.label = Holmes Volvo_360 Tour_15
+panorama_89896505_8455_26CE_41D8_BC58B65D2696.label = Holmes Volvo_360 Tour_2
+panorama_8989A9EE_8454_E15A_41D0_0100453CC3CB.label = Holmes Volvo_360 Tour_5
+panorama_8989C0D1_842B_3F46_41A8_2C1C0493AF98.label = Holmes Volvo_360 Tour_8
+panorama_8989CE2A_842B_22DA_41D2_53B2F6BC2069.label = Holmes Volvo_360 Tour_9
+panorama_8989E399_842B_21C6_41D9_A483F46F3D9C.label = Holmes Volvo_360 Tour_7
+panorama_8989E65D_8454_E37E_41DD_70B022FE336C.label = Holmes Volvo_360 Tour_6
+panorama_8989FD90_8455_21C6_41D9_0EAFBDC8AC93.label = Holmes Volvo_360 Tour_4
+panorama_8AC9285C_8455_6F7E_41D0_CC11161FB867.label = Holmes Volvo_360 Tour_1
+panorama_94D0D8A7_842B_6FCA_41AC_09632A09C854.label = Holmes Volvo_360 Tour_16
+
+## Action
+
+### URL
+LinkBehaviour_0561173D_845D_213E_41D0_9D33A3334EC7.source = https://www.holmesvolvocars.com
